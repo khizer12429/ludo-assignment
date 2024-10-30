@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100%;
+    width: 100%;
+
+}
+.first1{
+    display: flex;   
+}
+.first1 img{
+    padding: 3.5vw 4vw;
+}
+.firsta {
+    height: 10vw;
+    width: 10vw;
+}
+.firsta img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.firstb {
+    height: 10vw;
+    width: 10vw;
+}
+.firstb img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.firstc {
+    height: 10vw;
+    width: 10vw;
+}
+.firstc img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.firstd {
+    height: 10vw;
+    width: 10vw;
+}
+.firstd img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.first2{
+    display: flex;
+}
+.first2 img{
+    padding: 3.5vw 4vw;
+}
+.firsta{
+    background-color: rgb(255, 12, 12);
+    height: 18vw;
+    width: 20vw;
+}
+.firstb{
+    background-color: rgb(34, 170, 57);
+    height: 18vw;
+    width: 20vw;
+}
+.qq{
+    height: 3.33vw;
+    width: 3.33vw;
+    border: 1px solid black;
+}
+.qq1{
+    height: 3.33vw;
+    width: 3.33vw;
+    border: 1px solid black;
+    background-color: red;
+}
+.qq2{
+    height: 3.33vw;
+    width: 3.33vw;
+    border: 1px solid black;
+    background-color: yellow;
+}
+.qq3{
+    height: 3vw;
+    width: 3vw;
+    border: 1px solid black;
+    background-color: rgb(0, 217, 255);
+}
+.qq4{
+    height: 3vw;
+    width: 3vw;
+    border: 1px solid black;
+    background-color: rgb(34, 170, 57);
+}
+.ww{
+    display: flex;
+    padding-left: 9vw;
+}
+.row{
+    display: flex;
+}
+.row1 .qq{
+    height: 3vw;
+    width: 3vw;
+}
+.row1 .qq1{
+    height: 3vw;
+    width: 3vw;
+}
+.ww1 .qq{
+    height: 3vw;
+    width: 3vw;
+}
+.ww1 .qq2{
+    height: 3vw;
+    width: 3vw;
+}
+.firstc{
+    background-color: rgb(0, 217, 255);
+    height: 18vw;
+    width: 20vw;
+}
+.firstd{
+    background-color: rgb(227, 252, 0);
+    height: 18vw;
+    width: 20vw;
+}
